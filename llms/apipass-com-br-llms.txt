@@ -1,0 +1,268 @@
+# APIPASS
+
+## APIPASS
+
+- [Documentação APIPASS](https://docs.apipass.com.br/documentacao-apipass/documentacao-apipass.md): iPaaS: integre tudo, em qualquer lugar, a qualquer momento e sob medida para sua empresa
+- [O que é a APIPASS?](https://docs.apipass.com.br/documentacao-apipass/introducao/o-que-e-a-apipass.md): Um pouco sobre o que é a nossa plataforma!
+- [Definição de iPaaS](https://docs.apipass.com.br/documentacao-apipass/introducao/definicao-de-ipaas.md): O que é o tal do 'IpaaS'?
+- [Visão geral da plataforma](https://docs.apipass.com.br/documentacao-apipass/introducao/visao-geral-da-plataforma.md): Um breve resumo do que é e como trabalha a plataforma APIPASS
+- [Release notes](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes.md)
+- [Release notes 2026](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026.md)
+- [Release notes Julho](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-julho.md)
+- [Relase notes Junho](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/relase-notes-junho.md)
+- [Release notes Maio](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-maio.md)
+- [Release notes Abril](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-abril.md)
+- [Release notes Março](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-marco.md)
+- [Release notes Fevereiro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-fevereiro.md)
+- [Release notes Janeiro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2026/release-notes-janeiro.md)
+- [Release notes 2025](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025.md)
+- [Release notes Outubro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-outubro.md)
+- [Release notes Setembro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-setembro.md)
+- [Release notes Agosto](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-agosto.md)
+- [Release notes Julho](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-julho.md)
+- [Release notes Junho](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-junho.md)
+- [Release notes Maio](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2025/release-notes-maio.md)
+- [Release notes 2024](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024.md)
+- [Release notes julho](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024/release-notes-julho.md)
+- [Release notes agosto](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024/release-notes-agosto.md)
+- [Release notes setembro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024/release-notes-setembro.md)
+- [Release notes outubro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024/release-notes-outubro.md)
+- [Release notes novembro](https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes/release-notes-2024/release-notes-novembro.md)
+- [Stage](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/stage.md): Visão geral sobre o que é Stage
+- [Visão geral](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/stage/visao-geral.md): Definição e sua utilização
+- [Variáveis Seguras](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/stage/visao-geral/variaveis-seguras.md)
+- [Quando usar uma variável segura](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/stage/visao-geral/variaveis-seguras/quando-usar-uma-variavel-segura.md)
+- [Boas práticas](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/stage/visao-geral/variaveis-seguras/boas-praticas.md)
+- [Projetos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos.md)
+- [Definição](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/definicao.md): Qual sua definição?
+- [Visão geral e organização](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/visao-geral-e-organizacao.md)
+- [Arquivamento de Fluxos e Projetos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/arquivamento-de-fluxos-e-projetos.md)
+- [Regras de negócio](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/arquivamento-de-fluxos-e-projetos/regras-de-negocio.md)
+- [Filtros e Busca](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/arquivamento-de-fluxos-e-projetos/filtros-e-busca.md)
+- [Benefícios da funcionalidade](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos/arquivamento-de-fluxos-e-projetos/beneficios-da-funcionalidade.md)
+- [Fluxos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos.md): Conceito e como construir
+- [Visão geral](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos/visao-geral.md): Qual sua definição e para que são utilizados
+- [Conceito](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos/conceito.md)
+- [Como construir](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos/como-construir.md): Construção
+- [Arquivamento de Fluxos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos/arquivamento-de-fluxos.md)
+- [OpenAPI](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/fluxos/openapi.md)
+- [Autorizações](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/autorizacoes.md): O que é e para que serve
+- [Customizações](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/customizacoes.md)
+- [IP APIPASS](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/ip-apipass.md): IP para liberação em firewalls ou regras para chamadas APIPASS.
+- [Canvas](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas.md): Comandos e funcionalidades na tela do Canvas
+- [Testar fluxo](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/testar-fluxo.md)
+- [Ferramentas de edição de fluxo](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo.md): Dentro do Canvas, é possível utilizar diversos comandos e ações que funcionam como ferramentas de edição, facilitando o desenvolvimento do fluxo.
+- [Seleção de steps](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo/selecao-de-steps.md)
+- [Copiar Step](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo/copiar-step.md): O comando de copiar step facilita a criação de fluxos, permitindo copiar os steps selecionados para a área de transferência do Windows.
+- [Recortar Step](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo/recortar-step.md): O comando de recortar step facilita a criação de fluxos, permitindo recortar os steps selecionados para a área de transferência do Windows.
+- [Colar Step](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo/colar-step.md): O comando de colar step facilita a criação de fluxos, permitindo colar os steps que estejam na área de transferência do windows no fluxo atual.
+- [Deletar Step](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/ferramentas-de-edicao-de-fluxo/deletar-step.md): O comando de deletar step facilita a criação de fluxos, permitindo deletar os steps selecionados que não serão mais utilizados no fluxo atual.
+- [Versionamento](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/versionamento.md)
+- [Visão Geral](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/versionamento/visao-geral.md)
+- [Histórico de versionamento](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/canvas/versionamento/historico-de-versionamento.md): Como consultar o histórico do fluxo
+- [Idempotência](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia.md)
+- [Quando utilizar](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/quando-utilizar.md)
+- [Como configurar](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/como-configurar.md)
+- [Estratégias de Idempotência](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/estrategias-de-idempotencia.md)
+- [Expressão da Chave de Idempotência](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/expressao-da-chave-de-idempotencia.md)
+- [TTL (Tempo de Vida)](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/ttl-tempo-de-vida.md)
+- [Comportamento da Plataforma](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/comportamento-da-plataforma.md)
+- [Mensagem de Duplicidade](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/mensagem-de-duplicidade.md)
+- [Boas práticas](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/boas-praticas.md)
+- [Configuração dinâmica por ambiente](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/configuracao-dinamica-por-ambiente.md)
+- [Desabilitando dinamicamente](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/desabilitando-dinamicamente.md)
+- [Recomendações](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/idempotencia/recomendacoes.md)
+- [Projetos e Fluxos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2.md)
+- [Primeiros Passos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/primeiros-passos.md)
+- [Projetos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/projetos.md)
+- [Fluxos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/fluxos.md)
+- [Importar e Exportar JSON](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/fluxos/importar-e-exportar-json.md)
+- [Organizar](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/fluxos/organizar.md)
+- [Tags](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/fluxos/tags.md)
+- [Arquivados](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/arquivados.md)
+- [Documentação OpenAPI](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/projetos-e-fluxos-v2/documentacao-openapi.md)
+- [Componentes de Inteligência Artificial](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial.md)
+- [AI Agent Builder](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder.md)
+- [Agente de IA](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia.md)
+- [Configuração do Agente de IA](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia.md)
+- [Visão Geral da Configuração](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/visao-geral-da-configuracao.md)
+- [Descrição (obrigatório)](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/descricao-obrigatorio.md)
+- [Mensagem do Usuário](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/mensagem-do-usuario.md)
+- [Arquivos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/arquivos.md)
+- [Mensagem do Sistema](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/mensagem-do-sistema.md)
+- [Fluxo de Execução do Agente](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/agente-de-ia/configuracao-do-agente-de-ia/fluxo-de-execucao-do-agente.md)
+- [Banco de Dados Vetorial (Vector Store)](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/banco-de-dados-vetorial-vector-store.md)
+- [Carregador de Arquivos](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/carregador-de-arquivos.md)
+- [Divisor de Arquivos (Text Splitter)](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/divisor-de-arquivos-text-splitter.md)
+- [Embeddings](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/embeddings.md)
+- [Memória do Chat](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/memoria-do-chat.md)
+- [Modelos de Linguagem (LLMs)](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/modelos-de-linguagem-llms.md)
+- [Como os componentes se conectam](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/ai-agent-builder/como-os-componentes-se-conectam.md)
+- [APIPASS Headless](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/componentes-de-inteligencia-artificial/apipass-headless.md)
+- [Mascaramento de Dados](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/mascaramento-de-dados.md)
+- [Configuração](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/mascaramento-de-dados/configuracao.md)
+- [Como escrever uma regra](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/mascaramento-de-dados/como-escrever-uma-regra.md)
+- [Exemplo prático](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/mascaramento-de-dados/exemplo-pratico.md)
+- [Quando usar](https://docs.apipass.com.br/documentacao-apipass/guia-do-desenvolvedor/mascaramento-de-dados/quando-usar.md)
+- [Triggers](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers.md): O que são e para que são utilizadas
+- [Trigger REST](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest.md)
+- [Methods disponiveis](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/methods-disponiveis.md)
+- [Content-type](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/content-type.md)
+- [Allowed Origins (CORS)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/allowed-origins-cors.md)
+- [Path](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/path.md)
+- [Autorização](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/autorizacao.md)
+- [Rate Limiter](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/rate-limiter.md)
+- [Configuração](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/rate-limiter/configuracao.md)
+- [Exemplo prático](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/rate-limiter/exemplo-pratico.md)
+- [Como o Rate Limiter responde](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/rate-limiter/como-o-rate-limiter-responde.md)
+- [Quando faz sentido usar](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-rest/rate-limiter/quando-faz-sentido-usar.md)
+- [Trigger Webhook](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-webhook.md)
+- [Trigger Subfluxo (Child Flow)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-subfluxo-child-flow.md)
+- [Trigger AMS](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/triggers/trigger-ams.md)
+- [Conectores / Steps](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps.md): Conectores para construção de fluxos
+- [Conector HTTP](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http.md): Apresentamos a documentação que envolve o conector HTTP
+- [Methods HTTP disponíveis](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/methods-http-disponiveis.md)
+- [Interpolar variáveis em query ou path param](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/interpolar-variaveis-em-query-ou-path-param.md): Utilizando de uma URL
+- [Utilizando as autorizações](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/utilizando-as-autorizacoes.md): Utilize a autorização dentro do conector HTTP
+- [Query params, headers e basic auth](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/query-params-headers-e-basic-auth.md)
+- [Body / Content-type](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/body-content-type.md): Content-type suportados
+- [Body fixo e com variáveis](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/body-fixo-e-com-variaveis.md)
+- [Geração do Output](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/geracao-do-output.md)
+- [Demais configurações](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/demais-configuracoes.md): Configurações do conector e beautify
+- [Conector NodeJS](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs.md): Recursos e configurações disponíveis
+- [Pacotes NPM disponíveis](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs/pacotes-npm-disponiveis.md): Node Package Manager
+- [Funcionamento do $export](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs/funcionamento-do-usdexport.md)
+- [Beautify](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs/beautify.md): Deixe seu código mais apresentavel
+- [Boas práticas](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs/boas-praticas.md): Algumas boas práticas e também orientações sobre o uso do conector Node
+- [TimeOut](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-nodejs/timeout.md)
+- [Conector LOOP](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop.md)
+- [Conector Parar Loop](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/conector-parar-loop.md)
+- [Conector Pular Iteração](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/conector-pular-iteracao.md)
+- [Funcionamento via Array](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/funcionamento-via-array.md)
+- [Funcionamento via numero de repetições](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/funcionamento-via-numero-de-repeticoes.md)
+- [Variáveis geradas pelo LOOP](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/variaveis-geradas-pelo-loop.md)
+- [Opção falhar se der erro](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-loop/opcao-falhar-se-der-erro.md)
+- [Conector Switch](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-switch.md): Este conector não contabiliza Request do plano contratado
+- [Conector Tratar erro](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-tratar-erro.md): Este conector não contabiliza Request
+- [Conector Executar fluxo (Descontinuado)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-executar-fluxo-descontinuado.md): Este conector não contabiliza execução ou request no plano contratado
+- [Conector Executar Subfluxo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-executar-subfluxo.md): Este conector não contabiliza execução ou request no plano contratado
+- [Conector Chave-valor](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-chave-valor.md): Este conector contabiliza request no plano contratado \*Exceto o Armazenar chave-valor em memória e Buscar valor em memória\*
+- [Conector SQL](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-sql.md): Este conector contabiliza request no plano contratado
+- [Conector HTTP Upload File](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http-upload-file.md): Este conector contabiliza request no plano contratado
+- [Conectores SMB](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb.md): Este conector contabiliza request no plano contratado
+- [Autenticação SMB](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/autenticacao-smb.md)
+- [Listar Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/listar-arquivos.md): Este conector contabiliza request no plano contratado
+- [Baixar Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/baixar-arquivos.md): Este conector contabiliza request no plano contratado
+- [Enviar Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/enviar-arquivos.md): Este conector contabiliza request no plano contratado
+- [Mover Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/mover-arquivos.md): Este conector contabiliza request no plano contratado
+- [Deletar Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conectores-smb/deletar-arquivos.md): Este conector contabiliza request no plano contratado
+- [Conector LOG](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-log.md): Este conector não contabiliza execução ou request no plano contratado
+- [Conector ZIPFile](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-zipfile.md): Este conector contabiliza request no plano contratado
+- [Conector Stop/Fim (v1)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-stop-fim-v1.md): Este conector não contabiliza execução ou request no plano contratado e tem como premissa de funcionamento o acionamento do fluxo via trigger rest.
+- [Conector Stop/Fim (v2)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-stop-fim-v2.md): Documentação válida para fluxos configurados com trigger REST. A principal vantagem de utilizar este recurso é manter a organização e facilitar o monitoramento dos dados trafegados no fluxo
+- [PDF](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/pdf.md): Os conectores PDF nos auxiliam em fluxos com necessidade de manipulação de arquivos PDF.
+- [HTML para PDF](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/pdf/html-para-pdf.md)
+- [Escrever HTML no PDF](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/pdf/escrever-html-no-pdf.md)
+- [Unificar PDF's](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/pdf/unificar-pdfs.md)
+- [MongoDB](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb.md)
+- [Inserir](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/inserir.md)
+- [Buscar Todos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/buscar-todos.md)
+- [Remover](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/remover.md)
+- [Atualizar (Update)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/atualizar-update.md)
+- [Buscar um via query](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/buscar-um-via-query.md)
+- [Aggregate Pipeline](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/mongodb/aggregate-pipeline.md)
+- [Converter Json para XLS](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/converter-json-para-xls.md)
+- [Converter Json para Parquet](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/converter-json-para-parquet.md)
+- [Solution Services](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services.md)
+- [Apipass File Store (AFS)](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs.md)
+- [Upload de Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/upload-de-arquivo.md): Salva um arquivo no AFS em um caminho especificado.
+- [Renomear Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/renomear-arquivo.md): Renomeia um arquivo no AFS em um caminho especificado.
+- [Copiar Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/copiar-arquivo.md): Copia um arquivo no AFS para um caminho especificado.
+- [Mover Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/mover-arquivo.md): Move um arquivo no AFS para um outro caminho especificado.
+- [Remover Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/remover-arquivo.md): Remove um arquivo do AFS conforme um caminho especificado.
+- [Download de Arquivo](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/download-de-arquivo.md): Efetua download um arquivo do AFS conforme um caminho especificado.
+- [Listar Arquivos](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/apipass-file-store-afs/listar-arquivos.md): Lista arquivos do AFS de um caminho especificado.
+- [AMS - Send Message](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/solution-services/ams-send-message.md): O Conector AMS Send Message permite enviar mensagens para filas gerenciadas por provedores de mensagens, como AWS SQS, através da abstração AMS (Apipass Message System). Ele é ideal para fluxos assínc
+- [Textract Detect Document](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/textract-detect-document.md): O Conector Textract Detect Document utiliza o serviço Amazon Textract para extrair automaticamente textos de documentos como PDFs ou imagens (JPEG, PNG). Ele é ideal para leitura de documentos escanea
+- [Rekognition Detect Text](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/rekognition-detect-text.md): O Conector Rekognition Detect Text permite extrair textos presentes em imagens utilizando o serviço Amazon Rekognition. Este conector é ideal para cenários que envolvem leitura automática de textos em
+- [SAP RFC](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/sap-rfc.md)
+- [Ler Tabela](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/sap-rfc/ler-tabela.md)
+- [Executar Função](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/sap-rfc/executar-funcao.md)
+- [Executar Comando SSH](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/executar-comando-ssh.md)
+- [Editor de código](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/editor-de-codigo.md): Alguns Steps demandam a necessidade de implementações low-code, para isso disponibilizado um editor que código para que o usuario possa fazer suas implementações.
+- [Autocomplete](https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/editor-de-codigo/autocomplete.md)
+- [File Store (AFS)](https://docs.apipass.com.br/documentacao-apipass/casos-de-uso-na-pratica/file-store-afs.md)
+- [Message System (AMS)](https://docs.apipass.com.br/documentacao-apipass/casos-de-uso-na-pratica/message-system-ams.md)
+- [SAP RFC: Ler uma Tabela](https://docs.apipass.com.br/documentacao-apipass/casos-de-uso-na-pratica/sap-rfc-ler-uma-tabela.md)
+- [SAP RFC: Executar uma Função](https://docs.apipass.com.br/documentacao-apipass/casos-de-uso-na-pratica/sap-rfc-executar-uma-funcao.md)
+- [Throughput](https://docs.apipass.com.br/documentacao-apipass/monitoramento/throughput.md)
+- [Dashboard](https://docs.apipass.com.br/documentacao-apipass/monitoramento/dashboard.md): Inicio
+- [Visão geral](https://docs.apipass.com.br/documentacao-apipass/monitoramento/dashboard/visao-geral.md): Apresentação de nossa tela inicial
+- [Execuções](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes.md)
+- [Log de execução](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/log-de-execucao.md)
+- [Filtros](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/filtros.md): O menu execuções conta com uma grupo de recursos para auxiliar as buscas por execuções, tendo um precisão maior de qual execução o usuário está buscando.
+- [Detalhes de execuções](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/detalhes-de-execucoes.md): O menu de execuções possibilita ao usuário detalhar cada execução, fornecendo uma visão geral dos dados trafegados.
+- [Processamento Assíncrono de Logs de Execução](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/detalhes-de-execucoes/processamento-assincrono-de-logs-de-execucao.md)
+- [Recursos de Tela](https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/recursos-de-tela.md): Alguns recursos na tela de execuções foram adicionados para gerar mais agilidade no processo de consulta de execuções.
+- [Perfis de usuário](https://docs.apipass.com.br/documentacao-apipass/configuracoes/perfis-de-usuario.md): Como cadastrar e para que serve
+- [Cadastro de usuário](https://docs.apipass.com.br/documentacao-apipass/configuracoes/cadastro-de-usuario.md): Como cadastrar um usuário
+- [MFA (Multi-Factor Authentication)](https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md)
+- [Tunnel](https://docs.apipass.com.br/documentacao-apipass/configuracoes/tunnel.md)
+- [Liberação Firewall](https://docs.apipass.com.br/documentacao-apipass/configuracoes/tunnel/liberacao-firewall.md)
+- [Controle de acesso](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso.md)
+- [O que é controle de acesso híbrido](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/o-que-e-controle-de-acesso-hibrido.md)
+- [Como funciona na prática](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/o-que-e-controle-de-acesso-hibrido/como-funciona-na-pratica.md)
+- [Exemplo conceitual](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/o-que-e-controle-de-acesso-hibrido/exemplo-conceitual.md)
+- [Por que a APIPASS usa um modelo híbrido](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/o-que-e-controle-de-acesso-hibrido/por-que-a-apipass-usa-um-modelo-hibrido.md)
+- [Benefícios do modelo híbrido](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/o-que-e-controle-de-acesso-hibrido/beneficios-do-modelo-hibrido.md)
+- [Conceitos principais](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/conceitos-principais.md)
+- [Permissões por ID de recurso](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/conceitos-principais/permissoes-por-id-de-recurso.md)
+- [Papéis (perfis) iniciais gerenciados pela APIPASS](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-iniciais-gerenciados-pela-apipass.md)
+- [Papéis (perfis) customizados](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-customizados.md)
+- [Criar um papel (perfil) customizado](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-customizados/criar-um-papel-perfil-customizado.md)
+- [Recomendações para criação de papéis customizados](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-customizados/recomendacoes-para-criacao-de-papeis-customizados.md)
+- [Edição de papéis](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-customizados/edicao-de-papeis.md)
+- [Exclusão de papéis](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/papeis-perfis-customizados/exclusao-de-papeis.md)
+- [Usuários e grupos](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/usuarios-e-grupos.md)
+- [Cenários de uso](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso.md)
+- [Desenvolvedor restrito a projetos específicos](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/desenvolvedor-restrito-a-projetos-especificos.md)
+- [Operador de sustentação de um projeto](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/operador-de-sustentacao-de-um-projeto.md)
+- [Publicação restrita a um ambiente](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/publicacao-restrita-a-um-ambiente.md)
+- [Auditor de execuções](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/auditor-de-execucoes.md)
+- [Todos os projetos, exceto um](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/todos-os-projetos-exceto-um.md)
+- [Parceiro com acesso a uma pasta do File Store](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/parceiro-com-acesso-a-uma-pasta-do-file-store.md)
+- [Operador de filas específicas](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/operador-de-filas-especificas.md)
+- [Organizar um squad com grupos](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/cenarios-de-uso/organizar-um-squad-com-grupos.md)
+- [Boas práticas de governança](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/boas-praticas-de-governanca.md)
+- [Perguntas frequentes](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/perguntas-frequentes.md)
+- [Lista de permissões disponíveis por recurso](https://docs.apipass.com.br/documentacao-apipass/configuracoes/controle-de-acesso/lista-de-permissoes-disponiveis-por-recurso.md)
+- [Gerenciamento de filas](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas.md)
+- [Visão Geral](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/visao-geral.md)
+- [Listagem de filas](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/listagem-de-filas.md)
+- [Criar fila](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/criar-fila.md)
+- [Editar fila](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/editar-fila.md)
+- [Deletar fila](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/deletar-fila.md)
+- [Limpar fila](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/limpar-fila.md)
+- [Enviar e receber mensagens](https://docs.apipass.com.br/documentacao-apipass/servicos/gerenciamento-de-filas/enviar-e-receber-mensagens.md)
+- [Armazenamento de arquivos](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos.md)
+- [Visão Geral](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/visao-geral.md): Esta tela foi projetada para simplificar a interação com os arquivos armazenados, eliminando a necessidade de configurar fluxos para realizar operações como listar arquivos, upload, download e etc.
+- [Listagem de arquivos](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/listagem-de-arquivos.md)
+- [Carregar arquivos](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/carregar-arquivos.md)
+- [Download de arquivos](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/download-de-arquivos.md)
+- [Criar pasta](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/criar-pasta.md)
+- [Deletar arquivos](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/deletar-arquivos.md)
+- [Ações](https://docs.apipass.com.br/documentacao-apipass/servicos/armazenamento-de-arquivos/acoes.md)
+- [Object Store](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos.md)
+- [Visão Geral](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/visao-geral.md)
+- [Conceitos Fundamentais](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/conceitos-fundamentais.md)
+- [Criando um Banco de Dados](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/criando-um-banco-de-dados.md)
+- [Gerenciando Collections](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/gerenciando-collections.md)
+- [Consultando Dados](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/consultando-dados.md)
+- [Operações Disponíveis nos Fluxos](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/operacoes-disponiveis-nos-fluxos.md)
+- [Uso nos Fluxos](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/uso-nos-fluxos.md)
+- [Boas Práticas](https://docs.apipass.com.br/documentacao-apipass/servicos/object-store-aos/boas-praticas.md)
+- [Recintos](https://docs.apipass.com.br/documentacao-apipass/aplicacoes/recintos.md)
+- [Visão Geral](https://docs.apipass.com.br/documentacao-apipass/aplicacoes/recintos/visao-geral.md)
+- [Configurações Iniciais](https://docs.apipass.com.br/documentacao-apipass/aplicacoes/recintos/configuracoes-iniciais.md)
+- [Operações](https://docs.apipass.com.br/documentacao-apipass/aplicacoes/recintos/operacoes.md)
+- [Equipamentos](https://docs.apipass.com.br/documentacao-apipass/aplicacoes/recintos/equipamentos.md)

@@ -1,0 +1,64 @@
+openapi: 3.1.0
+info:
+  title: Keila Santos API
+  version: '2026-10-20'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-10-20: 1 operation(s) read from 1 public documentation page(s) (each operation
+    names its page in x-source). This is not the provider''s published contract; Keila Santos has published no machine-readable contract that
+    the pipeline could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 1
+    documentation: 0
+    pages-with-code: 1
+    pages-read: 1
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-10-20'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/recursos-de-tela.md
+paths:
+  /d5ddf053-9175-4ab6-ab73-2e114648e2c9:
+    post:
+      operationId: post_d5ddf053_9175_4ab6_ab73_2e114648e2c9
+      tags:
+      - D5Ddf053 9175 4Ab6 Ab73 2E114648E2C9
+      summary: POST /d5ddf053-9175-4ab6-ab73-2e114648e2c9
+      x-source: https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/recursos-de-tela.md
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PostD5Ddf05391754Ab6Ab732E114648E2C9Request'
+      responses:
+        '201':
+          description: Success (status as documented)
+      x-evidence:
+        kind: code-example
+        language: curl
+        snippet: "curl -X POST -d '{ \"teste\": \"teste\" }' \"<https://webhook.site/d5ddf053-9175-4ab6-ab73-2e114648e2c9\"\\\\>\n Além disso\
+          \ é possível copiar tanto o conteúdo de input e de output dos steps, basta selecionar entre um e outro e clicar no botão copiar. Além\
+          \ do recurso de busca dentro da execução do passo.<br>"
+components:
+  schemas:
+    PostD5Ddf05391754Ab6Ab732E114648E2C9Request:
+      type: object
+      properties:
+        teste:
+          type: string
+  securitySchemes:
+    Basic_Auth:
+      type: http
+      scheme: basic
+      x-source: https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md
+    Bearer_Token:
+      type: http
+      scheme: bearer
+      x-source: https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md
+tags:
+- name: D5Ddf053 9175 4Ab6 Ab73 2E114648E2C9
+security:
+- Basic_Auth: []
+- Bearer_Token: []

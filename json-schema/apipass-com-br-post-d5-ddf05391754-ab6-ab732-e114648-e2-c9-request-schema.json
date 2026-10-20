@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/apipass-com-br/main/json-schema/apipass-com-br-post-d5-ddf05391754-ab6-ab732-e114648-e2-c9-request-schema.json",
+  "title": "PostD5Ddf05391754Ab6Ab732E114648E2C9Request",
+  "x-generated": "2026-10-20",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/apipass-com-br-openapi-generated.yml#/components/schemas/PostD5Ddf05391754Ab6Ab732E114648E2C9Request",
+  "type": "object",
+  "properties": {
+    "teste": {
+      "type": "string"
+    }
+  }
+}

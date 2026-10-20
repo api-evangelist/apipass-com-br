@@ -1,0 +1,25 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md
+sources:
+- https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md
+- https://docs.apipass.com.br/documentacao-apipass/triggers-and-conectores/conectores-steps/conector-http/query-params-headers-e-basic-auth.md
+description: Authentication methods documented for the Apipass platform.
+schemes:
+- type: http-basic
+  name: Basic Auth
+  evidence: O *basic* é usado quando a requisição requer uma *basic auth*, ou atenticação basica, que é através de um usuário e uma senha, passando
+    esses dados no basic a plataforma transforma isso em um *basic token* que é o mesmo que pegar um usuário e senha e converter em *base64*.
+  location: header
+  header: Authorization
+  how_to_obtain: Provide a username and password; the platform converts them to a Base64‑encoded token and places it in the Authorization header.
+- type: http-bearer
+  name: Bearer Token
+  evidence: 'Por exemplo, se você estiver fazendo uma solicitação POST para uma API que requer autenticação via *header* "Authorization", você
+    configuraria isso da seguinte maneira: * Chave (Key): Authorization * Valor (Value): Bearer <seu-token-de-autenticação>'
+  location: header
+  header: Authorization
+  how_to_obtain: Supply a JWT or other bearer token and set it as the value of the Authorization header prefixed with "Bearer ".
+note: No OAuth2 flows, API key, or other authentication schemes were found on the provided pages.
+docs: https://docs.apipass.com.br/documentacao-apipass/configuracoes/mfa-multi-factor-authentication.md

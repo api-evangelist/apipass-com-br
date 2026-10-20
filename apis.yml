@@ -1,23 +1,99 @@
 aid: apipass-com-br
+
 name: Keila Santos
-description: 'Keila Santos is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://apipass.com.br/wp-content/uploads/2026/06/open-graph.webp
+
+description: 'Keila Santos is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub
+  for full-pipeline profiling.'
+
 url: https://raw.githubusercontent.com/api-evangelist/apipass-com-br/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Vendors
+  url: vendors/apipass-com-br-vendors.yml
+- type: RateLimits
+  url: rate-limits/apipass-com-br-rate-limits.yml
+- type: Spectral
+  url: rules/apipass-com-br-rules.yml
+- type: JSONLD
+  url: json-ld/apipass-com-br-context.jsonld
+- type: Vocabulary
+  url: vocabulary/apipass-com-br-vocabulary.yml
+- type: DataModel
+  url: data-model/apipass-com-br-data-model.yml
+- type: Authentication
+  url: authentication/apipass-com-br-authentication.yml
+- type: Conformance
+  url: conformance/apipass-com-br-conformance.yml
+- type: LLMsTxt
+  url: llms/apipass-com-br-llms.txt
+- type: WellKnown
+  url: well-known/apipass-com-br-well-known.yml
+- type: Hosts
+  url: hosts/apipass-com-br-hosts.yml
+- type: ChangeLog
+  url: https://docs.apipass.com.br/documentacao-apipass/introducao/release-notes
+- type: Blog
+  url: https://apipass.com.br/blog/mcp/
+- type: Documentation
+  url: https://docs.apipass.com.br/
+- type: DomainSecurity
+  url: security/apipass-com-br-domain-security.yml
 - type: Website
   url: https://apipass.com.br/
+
+apis:
+- name: APIPASS API
+  description: API platform for integration services as described in the APIPASS documentation.
+  humanURL: https://docs.apipass.com.br/documentacao-apass
+  aid: apipass-com-br:apipass-api
+- aid: apipass-com-br:apipass-com-br-api
+  name: Keila Santos API
+  description: 'Keila Santos API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-20);
+
+    not the provider''s own document.'
+  humanURL: https://docs.apipass.com.br/documentacao-apipass/monitoramento/execucoes/recursos-de-tela.md
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/apipass-com-br-openapi-generated.yml
+    x-provenance: generated
+  - type: JSONSchema
+    url: json-schema/apipass-com-br-post-d5-ddf05391754-ab6-ab732-e114648-e2-c9-request-schema.json
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: Documentation is provided in markdown but no OpenAPI or other machine‑readable contract was found.
+  evidence:
+  - url: https://docs.apipass.com.br
+    status: 200
+  checked: '2026-10-20'
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 22
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
